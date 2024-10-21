@@ -59,6 +59,7 @@ This repository contains useful resources for preparing for technical interviews
 - [Top OS Interview Questions](https://www.naukri.com/code360/library/operating-system-interview-questions)
 - [Top OOPS Interview Questions](https://www.geeksforgeeks.org/oops-interview-questions/)
 - [Top DBMS Interview Questions](https://www.google.com/amp/s/www.interviewbit.com/dbms-interview-questions/amp/)
+- [Java Interview Questions](https://drive.google.com/drive/folders/1X6bthChtd6ySV1utF5SWJcOW3APwo8g4?usp=drive_link)
 - [IndiaBIX App for Aptitude](https://play.google.com/store/apps/details?id=com.indiabix)
 - [YouTube Playlist for Aptitude](https://youtube.com/playlist?list=PLjLhUHPsqNYkcq6YOfiywbTfnvf_TN7i9&si=waoF930vtBl5ONJp)
 
