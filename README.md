@@ -55,6 +55,7 @@ This repository contains useful resources for preparing for technical interviews
 - [Company-wise Interview Preparation](https://www.geeksforgeeks.org/company-preparation/)
 - [Most Asked Computer Networks Interview Questions](https://takeuforward.org/computer-network/most-asked-computer-networks-interview-questions)
 - [Most Asked DBMS Interview Questions](https://takeuforward.org/dbms/most-asked-dbms-interview-questions)
+- [OS Notes](https://drive.google.com/file/d/1TGjz-2FkhudY35KpP4K6UGHhIMagffun/view?usp=drivesdk)
 - [Most Asked Operating System Interview Questions](https://takeuforward.org/operating-system/most-asked-operating-system-interview-questions)
 - [Top OS Interview Questions](https://www.naukri.com/code360/library/operating-system-interview-questions)
 - [Top OOPS Interview Questions](https://www.geeksforgeeks.org/oops-interview-questions/)
