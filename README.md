@@ -83,6 +83,15 @@ This repository contains valuable resources for preparing for technical intervie
 ### **Aptitude Preparation**
 - [IndiaBIX App for Aptitude](https://play.google.com/store/apps/details?id=com.indiabix)
 - [YouTube Playlist for Aptitude](https://youtube.com/playlist?list=PLjLhUHPsqNYkcq6YOfiywbTfnvf_TN7i9&si=waoF930vtBl5ONJp)
+- - **📘 [Aptitude Book](https://drive.google.com/file/d/1E2rcNYoA_ArttRiV6PUmbf6WQxc13SO3/view?usp=sharing)**  
+  A useful book for aptitude preparation.
+
+---
+
+## 📚 **Additional Resources**
+
+- **📝 [Handwritten 5th Semester Notes (MAKAUT)](https://drive.google.com/drive/folders/17C_NGMbbUKu9RYEl3sVeWZU_me85SWtV?usp=drive_link)**  
+  Notes for subjects like AI, Compiler Design, OOPs, OS, Software Engineering, and Industrial Management, specifically for MAKAUT.
 
 ---
 
