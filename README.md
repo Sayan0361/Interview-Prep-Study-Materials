@@ -83,7 +83,7 @@ This repository contains valuable resources for preparing for technical intervie
 ### **Aptitude Preparation**
 - [IndiaBIX App for Aptitude](https://play.google.com/store/apps/details?id=com.indiabix)
 - [YouTube Playlist for Aptitude](https://youtube.com/playlist?list=PLjLhUHPsqNYkcq6YOfiywbTfnvf_TN7i9&si=waoF930vtBl5ONJp)
--  **📘 [Aptitude Book](https://drive.google.com/file/d/1E2rcNYoA_ArttRiV6PUmbf6WQxc13SO3/view?usp=sharing)**  
+-  **[Aptitude Book](https://drive.google.com/file/d/1E2rcNYoA_ArttRiV6PUmbf6WQxc13SO3/view?usp=sharing)**  
  
 ---
 
