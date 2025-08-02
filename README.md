@@ -45,6 +45,27 @@ This repository contains valuable resources for preparing for technical intervie
 - **📈 [Full-Stack Roadmap](https://takeuforward.org/roadmaps/company-wise-full-stack-final)**  
   A roadmap for becoming a full-stack developer.
 
+- **📈 [HTML Basics](https://github.com/learning-zone/html-basics)**
+
+- **📈 [CSS Basics](https://github.com/learning-zone/css-basics)**
+
+- **📈 [JS Basics](https://github.com/learning-zone/javascript-basics)**
+
+- **📈 [JS Questions](https://github.com/lydiahallie/javascript-questions)**
+
+- **📈 [Advanced Web Dev Quiz](https://github.com/lydiahallie/advanced-web-dev-quiz)**
+  
+- **📈 [Nodejs Basics](https://github.com/learning-zone/nodejs-basics)**
+
+- **📈 [Reactjs Basics](https://github.com/learning-zone/react-basics)**
+
+- **📈 [Reactjs Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)**
+
+- **📈 [Reactjs Machine Coding Round Questions](https://github.com/sanchit0496/reactjs-machine-coding-challenges)**
+
+- **📈 [MongoDB Basics](https://github.com/learning-zone/mongodb-basics)**
+ 
+- **📈 [SQL Basics](https://github.com/learning-zone/sql-basics)**
 ---
 
 ## 🏗️ **System Design Resources**
@@ -80,6 +101,9 @@ This repository contains valuable resources for preparing for technical intervie
 - **Java:**
   - [Java Interview Questions](https://drive.google.com/drive/folders/1X6bthChtd6ySV1utF5SWJcOW3APwo8g4?usp=drive_link)
 
+ - **GitHub:**
+  - [GitHub Cheatsheet](https://drive.google.com/file/d/12wBHphj8b2boADY-hMPB5zj2wTGxL5vK/view?usp=drive_link)
+
 ### **Aptitude Preparation**
 - [IndiaBIX App for Aptitude](https://play.google.com/store/apps/details?id=com.indiabix)
 - [YouTube Playlist for Aptitude](https://youtube.com/playlist?list=PLjLhUHPsqNYkcq6YOfiywbTfnvf_TN7i9&si=waoF930vtBl5ONJp)
@@ -91,6 +115,9 @@ This repository contains valuable resources for preparing for technical intervie
 
 - **📝 [Handwritten 5th Semester Notes (MAKAUT)](https://drive.google.com/drive/folders/17C_NGMbbUKu9RYEl3sVeWZU_me85SWtV?usp=drive_link)**  
   Notes for subjects like AI, Compiler Design, OOPs, OS, Software Engineering, and Industrial Management, specifically for MAKAUT.
+
+- **📝 [Handwritten 6th Semester Notes (MAKAUT)](https://drive.google.com/drive/folders/1sxx8Ad8UIWeSD_b2QlJRa1PZtZ_LFz1e?usp=drive_link)**  
+  Notes for subjects like DBMS, CN, Data Mining, Image Processing, HRD, and Research Methodology specifically for MAKAUT.
 
 ---
 
