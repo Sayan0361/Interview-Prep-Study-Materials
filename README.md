@@ -13,6 +13,10 @@ This repository contains valuable resources for preparing for technical intervie
 
 - **🏆 [LeetCode Top Interview 150](https://leetcode.com/studyplan/top-interview-150/)**  
   A curated list of the top 150 questions for coding interviews.
+  
+- **🏆 [LeetCode Pattern Recognition](https://github.com/bitflipdev/guides)**  
+
+- **🏆 [LeetCode Company Wise Problems 2022](https://github.com/hxu296/leetcode-company-wise-problems-2022)**  
 
 ---
 
@@ -50,6 +54,8 @@ This repository contains valuable resources for preparing for technical intervie
 - **📈 [CSS Basics](https://github.com/learning-zone/css-basics)**
 
 - **📈 [JS Basics](https://github.com/learning-zone/javascript-basics)**
+
+- - **📈 [JS Coding Practice](https://github.com/learning-zone/javascript-coding-practice)**
 
 - **📈 [JS Questions](https://github.com/lydiahallie/javascript-questions)**
 
@@ -102,7 +108,7 @@ This repository contains valuable resources for preparing for technical intervie
   - [Java Interview Questions](https://drive.google.com/drive/folders/1X6bthChtd6ySV1utF5SWJcOW3APwo8g4?usp=drive_link)
 
  - **GitHub:**
-  - [GitHub Cheatsheet](https://drive.google.com/file/d/12wBHphj8b2boADY-hMPB5zj2wTGxL5vK/view?usp=drive_link)
+    - [GitHub Cheatsheet](https://drive.google.com/file/d/12wBHphj8b2boADY-hMPB5zj2wTGxL5vK/view?usp=drive_link)
 
 ### **Aptitude Preparation**
 - [IndiaBIX App for Aptitude](https://play.google.com/store/apps/details?id=com.indiabix)
