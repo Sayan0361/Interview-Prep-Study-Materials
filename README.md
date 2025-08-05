@@ -106,12 +106,14 @@ This repository contains valuable resources for preparing for technical intervie
 
 - **Java:**
   - [Java Interview Questions](https://drive.google.com/drive/folders/1X6bthChtd6ySV1utF5SWJcOW3APwo8g4?usp=drive_link)
-
- - **GitHub:**
+ 
+- **GitHub:**
   - [GitHub Cheatsheet](https://drive.google.com/file/d/12wBHphj8b2boADY-hMPB5zj2wTGxL5vK/view?usp=drive_link)
 
+
 ### **Aptitude Preparation**
-- [IndiaBIX App for Aptitude](https://play.google.com/store/apps/details?id=com.indiabix)
+- [IndiaBIX Mobile App for Aptitude](https://play.google.com/store/apps/details?id=com.indiabix)
+- [IndiaBIX Website for Aptitude](https://www.indiabix.com/)
 - [YouTube Playlist for Aptitude](https://youtube.com/playlist?list=PLjLhUHPsqNYkcq6YOfiywbTfnvf_TN7i9&si=waoF930vtBl5ONJp)
 -  **[Aptitude Book](https://drive.google.com/file/d/1E2rcNYoA_ArttRiV6PUmbf6WQxc13SO3/view?usp=sharing)**  
  
