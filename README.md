@@ -116,7 +116,7 @@ This repository contains valuable resources for preparing for technical intervie
 - [IndiaBIX Website for Aptitude](https://www.indiabix.com/)
 - [YouTube Playlist for Aptitude](https://youtube.com/playlist?list=PLjLhUHPsqNYkcq6YOfiywbTfnvf_TN7i9&si=waoF930vtBl5ONJp)
 -  **[Aptitude Book](https://drive.google.com/file/d/1E2rcNYoA_ArttRiV6PUmbf6WQxc13SO3/view?usp=sharing)**  
- -  **[500 Campus Nuemrical Aptitude Solved Q/Ans](https://drive.google.com/file/d/1SUPJLtS-EVy09buqfBdnnDYvzN4yisr1/view?usp=drivesdk)**
+ -  **[500 Campus Numerical Aptitude Solved Q/Ans](https://drive.google.com/file/d/1SUPJLtS-EVy09buqfBdnnDYvzN4yisr1/view?usp=drivesdk)**
 ---
 
 ## 📚 **Additional Resources**
