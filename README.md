@@ -87,6 +87,7 @@ This repository contains valuable resources for preparing for technical intervie
 
 ### **Company-wise Preparation**
 - [GeeksforGeeks Company-wise Interview Preparation](https://www.geeksforgeeks.org/company-preparation/)
+- [InterviewLegend](https://interviewlegend.com) - company-by-company interview preparation from first-hand reports
 
 ### **Interview Questions**
 - **Computer Networks:**
